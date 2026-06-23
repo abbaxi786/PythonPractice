@@ -9,5 +9,9 @@ OOPs:                                   Constructor, method overloading, inherit
 functions:                              Default arguments, function calling, return values, Function handling
 Loops:                                  While loop, for in loop , range(), nested loops
 Data Structure                          List, tuple, arrays, dict, objects 
-Basics                                  Identation,f string, data types, input, output etc
+Basics                                  Identation,f string, data 
+                                        types, input, output etc
+Exception                                Exception  try  except  raise  error type 
+
+
 
